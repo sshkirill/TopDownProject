@@ -1,0 +1,22 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Rider
+.idea/
+
+# Build
+Build/
+
+# OS
+.DS_Store
+Thumbs.db
